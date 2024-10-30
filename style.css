@@ -1,4 +1,12 @@
 body{
     color: rgb(0, 0, 0);
     background-color: chocolate;
-    
+}
+
+header {
+      border-bottom: solid 2px rosybrown(42, 122, 228);
+      padding: 20px;
+      font-size: 32px;
+      color: brown(42, 122, 228);
+
+}
